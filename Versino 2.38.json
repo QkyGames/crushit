@@ -1,0 +1,15 @@
+{
+    "c2dictionary": true,
+    "data": {
+        "Level1": 150,
+        "Level2": 900,
+        "Level3": 1500,
+        "Level4": 7500,
+        "Level5": 12000,
+        "Level6": 35000,
+        "Level7": 50000,
+        "Level8": 65000,
+        "Level9": 80000,
+        "Level10": 100000
+    }
+}

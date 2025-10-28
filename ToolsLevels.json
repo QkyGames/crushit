@@ -1,0 +1,15 @@
+{
+    "c2dictionary": true,
+    "data": {
+        "Level1": "tool1",
+        "Level2": "tool2",
+        "Level3": "power1",
+        "Level4": "power2",
+        "Level5": "tool3",
+        "Level6": "power3",
+        "Level7": "power4",
+        "Level8": "tool4",
+        "Level9": "power5",
+        "Level10": "tool5"
+    }
+}
